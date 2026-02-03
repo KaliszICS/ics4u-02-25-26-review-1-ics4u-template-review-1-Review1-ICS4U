@@ -1,7 +1,7 @@
 public class Review1 {
 
 	public static void q1() {
-		//Write question 1 code here
+		System.out.println("There once was a man from St. Ives.");
 	}
 
 	public static void q2() {
